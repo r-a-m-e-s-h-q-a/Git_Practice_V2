@@ -36,6 +36,12 @@ public class GitPractice_File1 {
 		
 	}
 
+	public void method7()
+	{
+		System.out.println("from method 7");
+
+	}
+
 
 	public static void main(String[] args) {
 		
